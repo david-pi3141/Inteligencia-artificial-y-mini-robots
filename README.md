@@ -12,7 +12,8 @@
 
 <h2>Profesores: <br>Gustavo Perez Hoyos <br> Flavio Augusto Prieto Ortiz <br> Jose Jesus Fernando Martinez Paez</h2>
 
-<h4>Paula Nicole Quiroga Romero <br>
+<h4>Integrantes: <br>
+    Paula Nicole Quiroga Romero <br>
     Jesus David Sanchez Cobos <br>
     David Steven Pinzón Hernández</h4>
 
@@ -22,17 +23,7 @@
 
 ## Descripción
 
-Este repositorio corresponde al desarrollo de las actividades del curso de **Robótica 2026-I**.  
-Aquí se documentan los laboratorios, avances, resultados y la presentación de los integrantes del equipo.
-
----
-
-## Objetivos del repositorio
-
-- Organizar el desarrollo de los laboratorios del curso.
-- Documentar procedimientos, resultados y evidencias.
-- Presentar formalmente a los integrantes del equipo.
-- Mantener una estructura clara y ordenada para la evaluación.
+Este repositorio corresponde al desarrollo de las actividades del curso de **Inteligencia Artificial y Minirobots 2026-II**.  
 
 ---
 
