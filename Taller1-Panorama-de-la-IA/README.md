@@ -41,10 +41,12 @@ Una de las cosas que se plantea realizar es crear unos modelos de inteligencia a
 
 ## Bibliografía
 
-[1] NVIDIA, “NVIDIA Cosmos: Desarrolle IA física más rápido,” NVIDIA, 2026. [En línea]. Disponible en: https://www.nvidia.com/es-la/ai/cosmos/#nv-accordion-7cc04d1c56-item-cd401cdab4. [Accedido: 07-sep-2026].
+[1] WION. (2021, 30 de noviembre). Gravitas: These robots can produce babies | 'Xenobots' capable of 'self-replicating' [Video]. YouTube. https://www.youtube.com/watch?v=JsmKUCiPHUY. [Accedido: 07-sep-2026].
 
-[2] NVIDIA, “What is Mixture-of-Transformers (MoT)? Definition & Architecture,” NVIDIA Glossary, 2026. [En línea]. Disponible en: https://www.nvidia.com/en-us/glossary/mixture-of-transformers/?ncid=no-ncid. [Accedido: 07-sep-2026].
+[2] NVIDIA, “NVIDIA Cosmos: Desarrolle IA física más rápido,” NVIDIA, 2026. [En línea]. Disponible en: https://www.nvidia.com/es-la/ai/cosmos/#nv-accordion-7cc04d1c56-item-cd401cdab4. [Accedido: 07-sep-2026].
 
-[3] Ministerio de Tecnologías de la Información y las Comunicaciones, “Colombia activa modelo de gobernanza de IA y avanza en soberanía tecnológica,” MinTIC: Sala de Prensa, 22-may-2026. [En línea]. Disponible en: https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438177:Colombia-activa-modelo-de-gobernanza-de-IA-y-avanza-en-soberania-tecnologica. [Accedido: 07-sep-2026].
+[3] NVIDIA, “What is Mixture-of-Transformers (MoT)? Definition & Architecture,” NVIDIA Glossary, 2026. [En línea]. Disponible en: https://www.nvidia.com/en-us/glossary/mixture-of-transformers/?ncid=no-ncid. [Accedido: 07-sep-2026].
 
-[4] Ministerio de Tecnologías de la Información y las Comunicaciones, “Construcción del Plan TIC Colombia 2026 – 2030,” Plan TIC Colombia, 2026. [En línea]. Disponible en: https://mintic.gov.co/plan-tic-colombia/919/w3-propertyvalue-1044920.html. [Accedido: 07-sep-2026].
+[4] Ministerio de Tecnologías de la Información y las Comunicaciones, “Colombia activa modelo de gobernanza de IA y avanza en soberanía tecnológica,” MinTIC: Sala de Prensa, 22-may-2026. [En línea]. Disponible en: https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438177:Colombia-activa-modelo-de-gobernanza-de-IA-y-avanza-en-soberania-tecnologica. [Accedido: 07-sep-2026].
+
+[5] Ministerio de Tecnologías de la Información y las Comunicaciones, “Construcción del Plan TIC Colombia 2026 – 2030,” Plan TIC Colombia, 2026. [En línea]. Disponible en: https://mintic.gov.co/plan-tic-colombia/919/w3-propertyvalue-1044920.html. [Accedido: 07-sep-2026].
