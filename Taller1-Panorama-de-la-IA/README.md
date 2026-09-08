@@ -117,6 +117,8 @@ En general, las definiciones de los LLMs son compatibles con lo explicado en el 
 
 # 1.2 Dé una definición propia de inteligencia artificial. 
 
+La inteligencia artificial es la habilidad de un sistema para tomar decisiones, razonar o resolver problemas de forma autónoma y rápida a partir de la experiencia.
+
 # 1.3 Vea el video que se encuentra en https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s Haga un análisis de lo discutido en el documento con respecto al video.
 
 En el documento se explica que los sistemas bio-inspirados toman como referencia algunas características de los seres vivos, como su capacidad de adaptarse, organizarse y actuar de manera autónoma. Esto se puede observar en el caso de los xenobots que presenta el video, los cuales son organismos creados a partir de células de la rana Xenopus laevis. Estos organismos fueron diseñados mediante modelos computacionales y posteriormente construidos con células vivas, logrando realizar movimientos, recuperarse de daños e incluso reproducirse mediante un proceso en el que agrupan células para formar nuevos xenobots. De esta manera, el video muestra de forma práctica cómo el estudio de los sistemas vivos puede servir para desarrollar nuevas formas de tecnología y de inteligencia artificial.
