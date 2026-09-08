@@ -15,7 +15,9 @@
 
 # 1.1 Definiciones de Inteligencia Artificial dadas por diferentes LLMs
 
-Para este ejercicio se solicitaron definiciones de Inteligencia Artificial (IA) a diferentes modelos de lenguaje de gran escala (LLMs) de Inteligencia Artificial Generativa (IAGen). Las respuestas obtenidas fueron las siguientes:
+A diferentes IA's se les pregunto **¿Qué es la inteligencia artificial?** 
+
+Las respuestas obtenidas fueron las siguientes:
 
 ## GPT
 
@@ -105,45 +107,15 @@ La magia no es magia, son matemáticas. La IA actual funciona gracias al **Apren
 
 # Comparación con lo visto en el capítulo
 
-Las definiciones obtenidas presentan varios puntos en común con la definición y los conceptos desarrollados en el capítulo **"Panorama de la IA"**.
+Las definiciones de los diferentes LLMs coinciden en que la Inteligencia Artificial busca desarrollar sistemas capaces de realizar tareas relacionadas con la inteligencia humana, como aprender, reconocer patrones, tomar decisiones y resolver problemas.
 
-En primer lugar, todas las definiciones relacionan la Inteligencia Artificial con la capacidad de las máquinas para realizar tareas que normalmente asociamos con la inteligencia humana. Esto coincide directamente con la orientación planteada en el capítulo, donde se indica que el problema de la IA consiste en construir una máquina que, si se comporta de manera similar al comportamiento humano, pueda ser llamada inteligente.
+En comparación con el capítulo, las definiciones se enfocan principalmente en el aprendizaje automático, el reconocimiento de patrones y la imitación de capacidades humanas. Sin embargo, el capítulo presenta una visión más amplia de la IA, incluyendo diferentes enfoques como pensar humanamente, IA simbólica, agentes, sistemas bio-inspirados y el enfoque basado en datos.
 
-También existe una coincidencia importante en las capacidades mencionadas. GPT, Gemini, Claude y DeepSeek hacen referencia al **aprendizaje, razonamiento, reconocimiento de patrones, toma de decisiones, resolución de problemas y comprensión del lenguaje**. Estas capacidades están relacionadas con los diferentes enfoques que presenta el capítulo para llevar al computador procesos de toma de decisiones humanas.
+Además, el capítulo aclara que el Machine Learning es solo un subcampo de la IA, por lo que la IA no se limita únicamente al aprendizaje automático o al Deep Learning.
 
-Por ejemplo, la respuesta de DeepSeek menciona el **razonamiento**, el **aprendizaje** y la **percepción**, mientras que el capítulo presenta diferentes formas de abordar estos procesos. El enfoque de **"Pensar Humanamente"** busca estudiar cómo funciona la mente humana para posteriormente expresar esos procesos mediante programas de computador.
+En general, las definiciones de los LLMs son compatibles con lo explicado en el capítulo, pero este último presenta una perspectiva más amplia y diversa sobre lo que comprende la Inteligencia Artificial.
 
-La definición de Gemini también menciona la deducción lógica. Esto se relaciona con el enfoque de **IA Simbólica**, cuyo objetivo consiste en representar formalmente procesos de razonamiento y utilizar estructuras lógicas para obtener conclusiones.
-
-Por otro lado, las definiciones de GPT, Claude y DeepSeek hacen bastante énfasis en el aprendizaje a partir de datos. Esto coincide con el **enfoque de datos** presentado en el capítulo. Allí se explica que los datos pueden utilizarse para solucionar problemas complejos y que su estudio, procesamiento y análisis permiten construir modelos predictivos, dando lugar al desarrollo de tecnologías como **Machine Learning, Deep Learning e IAGen**. Sin embargo, el capítulo aclara que Machine Learning es solamente un **subcampo de la IA**, por lo que no se debe considerar que toda la Inteligencia Artificial se limita al aprendizaje a partir de datos.
-
-La respuesta de Claude también menciona las redes neuronales profundas y señala que estas aprenden patrones a partir de grandes cantidades de datos. Esto se relaciona directamente con el desarrollo de **Deep Learning** mencionado en el capítulo, mientras que la referencia a modelos como ChatGPT se relaciona con la **IA Generativa (IAGen)**, que el documento identifica como uno de los desarrollos recientes más importantes.
-
-Otro punto de coincidencia aparece en la definición de DeepSeek cuando se habla de IA Estrecha e IA General. El capítulo también diferencia estos dos conceptos. Según el documento, la **IA General** busca que un gran sistema funcione con IA, mientras que actualmente se trabaja principalmente con **IA estrecha**, enfocada en la solución de problemas aislados y específicos.
-
-Además, el capítulo presenta el **enfoque de agentes**, donde un agente inteligente percibe información del ambiente mediante sensores, procesa dicha información y posteriormente toma decisiones para ordenar acciones mediante actuadores. Esta perspectiva amplía las definiciones dadas por las diferentes IA, debido a que no se limita a sistemas digitales, sino que permite relacionar la IA con sistemas capaces de percibir y actuar en un ambiente.
-
-Esto también se relaciona con el concepto de **IA Física** presentado en el capítulo. La IA Física integra robots, vehículos y otros sistemas físicos para percibir, razonar y actuar en el mundo real, combinando herramientas digitales como visión, audio y lenguaje con sensores y actuadores para tomar decisiones en tiempo real.
-
-## Diferencias principales
-
-Aunque las respuestas tienen muchos elementos en común, cada modelo enfatiza aspectos diferentes:
-
-| LLM          | Aspecto principal de su definición                                                                                                                                                                                                        |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **GPT**      | Presenta la IA como un conjunto de métodos y tecnologías para realizar tareas asociadas con la inteligencia humana. Destaca aprender, reconocer patrones, comprender lenguaje, tomar decisiones, hacer predicciones y resolver problemas. |
-| **Gemini**   | Se enfoca en la definición de IA como disciplina de la informática y presenta una clasificación en cuatro niveles: máquinas reactivas, memoria limitada, teoría de la mente y autoconsciencia.                                            |
-| **Claude**   | Destaca el reconocimiento de patrones, el aprendizaje de la experiencia, la toma de decisiones, el lenguaje y la resolución de problemas. También hace énfasis en Machine Learning y Deep Learning.                                       |
-| **DeepSeek** | Presenta la IA como una imitación de funciones humanas y desarrolla principalmente los conceptos de IA estrecha, IA general y superinteligencia, además de explicar Machine Learning y Deep Learning.                                     |
-
-## Conclusión de la comparación
-
-En conclusión, las cuatro definiciones coinciden en que la Inteligencia Artificial busca desarrollar sistemas capaces de realizar tareas relacionadas con capacidades que normalmente asociamos con la inteligencia humana, como aprender, razonar, percibir, reconocer patrones, resolver problemas y tomar decisiones.
-
-Al compararlas con el capítulo, se observa que las respuestas de los diferentes LLMs **recogen principalmente algunos de los enfoques de la IA**, especialmente el enfoque de datos, Machine Learning, Deep Learning y el procesamiento de capacidades humanas. Sin embargo, el capítulo presenta una visión más amplia, ya que no limita la IA al aprendizaje automático ni a las redes neuronales. También incluye el pensamiento humano, la IA simbólica, los agentes inteligentes y los sistemas bio-inspirados.
-
-Por lo tanto, las definiciones proporcionadas por los LLMs son compatibles en gran medida con lo estudiado en el capítulo, pero cada una resalta diferentes características de la IA. El capítulo permite comprender que **la Inteligencia Artificial es un campo más amplio que Machine Learning, Deep Learning o la IA Generativa**, y que existen diferentes enfoques para intentar desarrollar sistemas capaces de comportarse de manera inteligente.
-
+# 1.2 Dé una definición propia de inteligencia artificial. 
 
 # 1.3 Vea el video que se encuentra en https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s Haga un análisis de lo discutido en el documento con respecto al video.
 
