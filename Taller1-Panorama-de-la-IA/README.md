@@ -9,9 +9,6 @@
     Paula Nicole Quiroga Romero <br>
     Jesus David Sanchez Cobos <br>
     David Steven Pinzón Hernández</h4>
-
-
-<img src="images/Foto.jpeg" alt="ABB" style="border-radius: 50%; width: 500px;"><br>
  
 ---
 <div align="left">
