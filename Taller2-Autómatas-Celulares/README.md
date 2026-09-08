@@ -13,6 +13,49 @@
 ---
 <div align="left">
 
+
+## 1. Observe sus comportamientos en la casa, en la universidad y en el medio de transporte que utiliza. Encuentre, para cada uno de estos escenarios sus reglas básicas.  
+
+Reglas:
+
+Casa:
+1.	Saludar al llegar a la casa.
+2.	Mantener su espacio de trabajo limpio
+3.	Despedirse al irse de un grupo.
+4.	Cerrar con llave
+5.	Golpear antes de entrar en una habitación.
+6.	No interrumpir cuando alguien duerme.
+7.	No interrumpir cuando alguien está ocupado.
+8.	Apagar las luces cuando se sale de un espacio.
+9.	No tocar las cosas de otra persona sin autorización.
+10.	No comer sobre la cama.
+11.	No usar el teléfono mientras que se come.
+
+Universidad:
+1.	Saludar al llegar a una reunión
+2.	Esperar el turno para hablar en un grupo.
+3.	Escuchar al interlocutor.
+4.	Ayudar con respeto.
+5.	Respetar el ritmo de aprendizaje de cada compañero
+6.	Cumplir con las entregas en un trabajo grupal.
+7.	Colocar la basura en su lugar.
+8.	Ser puntual.
+9.	Notificar contratiempos en los objetivos de un equipo. 
+10.	No comer en clase.
+
+Medio de transporte:
+1.	Dejar salir antes de entrar.
+2.	No hacer ruidos incomodos.
+3.	No dejar basura.
+4.	Ayudar a subir a personas que lo necesitan.
+5.	No conducir en estado de ebriedad.
+6.	No rayar el medio de transporte.
+7.	Ceder el puesto a alguien que necesite.
+8.	No obstruir el paso.
+9.	No empujar al ingresar al transporte.
+10.	Evitar conductas violentas.
+
+
 ## 2. Suponga una enfermedad, o un incendio forestal, o una moda, desarrolle un modelo de difusión usando ACs probabilísticos. O simule un robot con dos ruedas que evite obstáculos.  
 
 
